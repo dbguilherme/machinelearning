@@ -2,6 +2,7 @@ Cerveja Pipoca Barrulho Jogo
 P M B Bom
 M P B Bom
 P P M Bom
+B P B Bom
 B B P Ruim
 M B P Ruim
 B M M Ruim
